@@ -14,5 +14,5 @@ This repository contains beginner-level computer vision experiments created as p
 - Matplotlib
 
 ## Status
-Ongoing – more experiments will be added.
+Phase 1 (Core Logic) complete. Documentation and code cleanup in progress.
 
